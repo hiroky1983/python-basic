@@ -10,6 +10,11 @@ else:
 for i in range(10):
     print(i)
 
+sellList = ['apple', 'orange', 'banana', 'iPod']
+
+for i in sellList:
+    print(i)
+
 # while
 j = 0
 while j < 10:
