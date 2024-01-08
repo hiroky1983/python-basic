@@ -21,6 +21,7 @@ x = np.linspace(-5,5)
 y = 2*x + 1
 
 plt.plot(x,y)
+plt.show()
 
 ## グラフの装飾
 
