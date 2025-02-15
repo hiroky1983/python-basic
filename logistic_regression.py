@@ -3,6 +3,8 @@ import torch.nn as nn
 import numpy as np
 import matplotlib.pyplot as plt
 
+# ロジスティック回帰
+
 # 再現性のために乱数のシードを設定
 np.random.seed(42)
 torch.manual_seed(42)
